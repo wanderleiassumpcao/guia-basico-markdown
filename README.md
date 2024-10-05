@@ -1,3 +1,7 @@
-# Guia Básico Markdown
+# Welcome / Bem-vindo
 
-Acesse o [Guia Básico Markdown no Wiki](https://github.com/wanderleiassumpcao/guia-basico-markdown/wiki).
+## English Version (EN)
+- [Basic Markdown Guide](https://github.com/wanderleiassumpcao/markdown-basic-guide/wiki)
+
+## Versão em Português (PT-BR)
+- [Guia Básico Markdown](https://github.com/wanderleiassumpcao/guia-basico-markdown/wiki)
